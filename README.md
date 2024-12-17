@@ -1,6 +1,6 @@
 # Skip Tuning: Pre-trained Vision-Language Models are Effective and Efficient Adapters Themselves
 
-Offical implementation of the paper "Skip Tuning: Pre-trained Vision-Language Models are Effective and Efficient Adapters Themselves".
+Offical implementation of the paper [Skip Tuning: Pre-trained Vision-Language Models are Effective and Efficient Adapters Themselves](https://arxiv.org/abs/2412.11509).
 
 ----
 
