@@ -6,6 +6,7 @@ Offical implementation of the paper [Skip Tuning: Pre-trained Vision-Language Mo
 
 # News
 
+- (Feb. 27, 2025) Our paper is accepted by CVPR 2025!
 - (Nov. 15, 2024) Training and evaluation codes for SkipTuning are released.
 
 ----
