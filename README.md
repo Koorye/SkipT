@@ -169,3 +169,18 @@ If you want to add your own models, you'll need to write your models in the `tra
 # Acknowledgements
 
 Our code is based on [Dassl.pytorch](https://github.com/KaiyangZhou/Dassl.pytorch) and [DePT](https://github.com/Koorye/DePT) repositories. We thank the authors for releasing their code. If you use our model and code, please consider citing these works as well.
+
+---
+
+# Citation
+
+If you find this work helpful, please consider citing:
+
+```
+@article{wu2024skip,
+  title={Skip Tuning: Pre-trained Vision-Language Models are Effective and Efficient Adapters Themselves},
+  author={Wu, Shihan and Zhang, Ji and Zeng, Pengpeng and Gao, Lianli and Song, Jingkuan and Shen, Heng Tao},
+  journal={arXiv preprint arXiv:2412.11509},
+  year={2024}
+}
+```
